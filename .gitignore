@@ -1,1 +1,17 @@
 target/
+.DS_Store
+.idea/compiler.xml
+.idea/jarRepositories.xml
+.idea/libraries/Maven__com_google_code_findbugs_jsr305_2_0_1.xml
+.idea/libraries/Maven__de_quantumrange_actionlib_2_5_2.xml
+.idea/libraries/Maven__de_quantumrange_color_util_1_1_1.xml
+src/.DS_Store
+src/main/.DS_Store
+src/main/java/.DS_Store
+src/main/java/de/.DS_Store
+src/main/java/de/quantumrange/.DS_Store
+src/test/.DS_Store
+src/test/java/de/.DS_Store
+src/test/java/de/quantumrange/.DS_Store
+.idea/compiler.xml
+.idea/jarRepositories.xml

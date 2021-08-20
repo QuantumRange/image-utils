@@ -9,5 +9,8 @@
         <module name="image-utils" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="image-utils" target="16" />
+    </bytecodeTargetLevel>
   </component>
 </project>
